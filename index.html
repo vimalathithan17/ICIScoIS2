@@ -46,6 +46,96 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+  <style type="text/css">
+      .profile-card-4 {
+    max-width: 300px;
+    background-color: #FFF;
+    border-radius: 5px;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    position: relative;
+    margin: 10px auto;
+    cursor: pointer;
+}
+
+        .profile-card-4 img {
+            transition: all 0.25s linear;
+            filter: opacity(60%);
+        }
+
+        .profile-card-4 .profile-content {
+            position: relative;
+            padding: 15px;
+            background-color: #FFF;
+        }
+
+        .profile-card-4 .profile-name {
+            font-weight: bold;
+            position: absolute;
+            left: 0px;
+            right: 0px;
+            top: -70px;
+            color: black;
+            font-size: 17px;
+        }
+
+        .profile-card-4 .profile-name p {
+            font-weight: 600;
+            font-size: 13px;
+            letter-spacing: 1.5px;
+        }
+
+        .profile-card-4 .profile-description {
+            color: #777;
+            font-size: 12px;
+            padding: 10px;
+        }
+
+        .profile-card-4 .profile-overview {
+            padding: 15px 0px;
+        }
+
+        .profile-card-4 .profile-overview p {
+            font-size: 10px;
+            font-weight: 600;
+            color: #777;
+        }
+
+        .profile-card-4 .profile-overview h4 {
+            color: #273751;
+            font-weight: bold;
+        }
+
+        .profile-card-4 .profile-content::before {
+            content: "";
+            position: absolute;
+            height: 20px;
+            top: -10px;
+            left: 0px;
+            right: 0px;
+            background-color: #FFF;
+            z-index: 0;
+            transform: skewY(3deg);
+        }
+
+        .profile-card-4:hover img {
+            transform: rotate(5deg) scale(1.1, 1.1);
+            filter: brightness(110%);
+        }
+
+        .profile-card-5 {
+            max-width: 300px;
+            background-color: #FFF;
+            border-radius: 5px;
+            box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            position: relative;
+            margin: 10px auto;
+            cursor: pointer;
+            padding: 50px 15px 25px 15px;
+        }
+
+  </style>
 </head>
 
 <body style=" /* Hide vertical scrollbar */
@@ -241,7 +331,8 @@ ins {background-color: yellow;}
                 </div>
                 <div class="news" id="mqe" >
                     <!--marquee class="news-content" direction="left"-->
-                        <p style="color: #1e2aa0;margin-top: 3%;" >&nbsp; &nbsp;Submission Deadline <del>30 OCTOBER 2022</del> <ins> <span style="color: red;">Final Extension: </span> 10 DECEMBER 2022</ins></p>
+                        <p style="color: #1e2aa0;margin-top: 3%;" >&nbsp; &nbsp;Registration Deadline: <!--del>30 OCTOBER 2022</del--> <ins> <!--span style="color: red;">Final Extension: </span--> 09 JANUARY 2023
+                            <a href="https://forms.gle/oJcnpSbRU33CLEvS6" style="color: red;">CLICK!</a></ins></p>
                          <!--p style="color: #1e2aa0;">&nbsp; &nbsp;Submission Deadline Extended to 15 NOVEMBER 2022</p>
                          <p style="color: #1e2aa0;">&nbsp; &nbsp;Submission Deadline Extended to 15 NOVEMBER 2022</p-->
                     <!--/marquee-->
@@ -277,6 +368,8 @@ ins {background-color: yellow;}
                 <button type="button" class="list-group-item list-group-item-action active" style="background-color:#1e2aa0; border:none;">
      Latest Updates
     </button>
+                <button type="button" class="list-group-item list-group-item-action"><b>Registration Deadline  - </b>9 JANUARY 2023</button>
+
                 <button type="button" class="list-group-item list-group-item-action"><b>Submission Deadline(Final Extension)  - </b>10 DECEMBER 2022</button>
             </div>
         </div>
@@ -353,7 +446,7 @@ activities.
                                 <p class="descr lead text-center bg-white">Notification of paper acceptance</p>
                             </li>
                             <li style="--accent-color:#1B5F8C">
-                                <div class="date">19 JANUARY 2023</div>
+                                <div class="date">09 JANUARY 2023</div>
                                 <p class="descr lead text-center bg-white">Registration & Final Paper Submission</p>
                             </li>
                         </ul>
@@ -1253,7 +1346,7 @@ Texas at Dallas, USA
         <!-- End Speakers Section -->
 
         <!-- ======= Schedule Section ======= -->
-        <section id="schedule">
+        <!--section id="schedule">
             <div class="container" data-aos="fade-up">
                 <div class="section-header">
                     <h2>Event Schedule</h2>
@@ -1272,12 +1365,11 @@ Texas at Dallas, USA
                     </li>
                 </ul>
 
-                <!-- <h3 class="sub-heading">Voluptatem nulla veniam soluta et corrupti consequatur neque eveniet officia. Eius
+                <<h3 class="sub-heading">Voluptatem nulla veniam soluta et corrupti consequatur neque eveniet officia. Eius
           necessitatibus voluptatem quis labore perspiciatis quia.</h3>
         <div class="tab-content row justify-content-center" data-aos="fade-up" data-aos-delay="200">
-!-->
-                <!-- Schdule Day 1 -->
-                <!--
+                <Schdule Day 1>
+                <
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
 
             <div class="row schedule-item">
@@ -1355,7 +1447,7 @@ Texas at Dallas, USA
             </div>
 
           </div>
-          !-->
+        -->
                 <!-- End Schdule Day 1 -->
 
                 <!-- Schdule Day 2 -->
@@ -1516,11 +1608,149 @@ Texas at Dallas, USA
             <div class="container" data-aos="fade-up">
                 <div class="section-header">
                     <h2>KEYNOTE SPEAKERS</h2>
-                    <p>Keynote speakers will be updated shortly!</p>
+                    <!--p>Keynote speakers will be updated shortly!</p-->
                 </div>
-
-
             </div>
+
+                 <div class="container">
+                      <div class="row">
+                        <div class="col-sm-4">
+                        <div class="profile-card-4 text-center"><img src="key/1.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. George Ghinea 
+                            <p></p>
+                        </div>
+                        <div class="profile-description">Professor of Mulsemedia Computing, Brunel University London</div>
+                    </div>
+                </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/2.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. Barath Narayanan
+                            <p></p>
+                        </div>
+                        <div class="profile-description">Research Scientist, University of Dayton</div>
+                    </div>
+                </div>
+                        </div>
+                           <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/3.png" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr.Anand Paul
+                            <p></p>
+                        </div>
+                        <div class="profile-description">Associate Professor, Kyungpook National University, South Korea </div>
+                    </div>
+                </div>
+                        </div>
+                      </div>
+
+
+                        <div class="row">
+                        <div class="col-sm-4">
+                        <div class="profile-card-4 text-center"><img src="key/4.jpeg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Mr.Viswanathan Mahalingam
+                            <p></p>
+                        </div>
+                        <div class="profile-description">Sr.Director of Engineering, Ridecell, United States</div>
+                    </div>
+                </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/5.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. Anandh Ramesh
+                            <p></p>
+                        </div>
+                        <div class="profile-description">Senior Lecturer, Norwich University of the Arts, United Kingdom</div>
+                    </div>
+                </div>
+                        </div>
+                           <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/6.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Prof. Sheng-Lung Peng 
+                            <p></p>
+                        </div>
+                        <div class="profile-description">Professor, National Taipei University of Business, Taiwan</div>
+                    </div>
+                </div>
+                        </div>
+                      </div>
+
+
+
+                        <div class="row">
+                        <div class="col-sm-4">
+                        <div class="profile-card-4 text-center"><img src="key/7.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. Ashish Ghosh
+                            <p></p>
+                        </div>
+                        <div class="profile-description">Professor, Indian Statistical Institute, Kolkata</div>
+                    </div>
+                </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/8.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. P. Santhi Thilagam
+                            <p></p>
+                        </div>
+                        <div class="profile-description">Professor, NIT Surathkal, Mangalore</div>
+                    </div>
+                </div>
+                        </div>
+                           <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/9.jpeg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Prof. M. Vimal Jose  
+                            <p></p>
+                        </div>
+                        <div class="profile-description">Vice President, Mr Cooper, Chennai</div>
+                    </div>
+                </div>
+                        </div>
+                      </div>
+
+
+
+                        <div class="row">
+                        <div class="col-sm-4">
+                        <div class="profile-card-4 text-center"><img src="key/10.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. Shyaam Prasadh
+                            <p></p>
+                        </div>
+                        <div class="profile-description">Data Analytics Manager, Ford motor , Chennai</div>
+                    </div>
+                </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/11.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. V. Vasudevan 
+                            <p></p>
+                        </div>
+                        <div class="profile-description">Registrar and Vice Chancellor (Acting), Kalasalingam Academy of Research and Education, Virudhunagar</div>
+                    </div>
+                </div>
+                        </div>
+                           <div class="col-sm-4">
+                            <!--div class="profile-card-4 text-center"><img src="http://envato.jayasankarkr.in/code/profile/assets/img/profile-4.jpg" class="img img-responsive">
+                    <div class="profile-content">
+                        <div class="profile-name">Prof. M. Vimal Jose  
+                            <p></p>
+                        </div>
+                        <div class="profile-description">Vice President, Mr Cooper, Chennai</div>
+                    </div>
+                </div-->
+                        </div>
+                      </div>
+
+                    </div>
         </section>
         <!-- =======  End Keynote Section ======= -->
 
@@ -2072,7 +2302,7 @@ Coimbatore - 641004 <br>Tamil nadu, India</address>
             </ul>
             <article class="reg-ps">
                 <p class="reg-ps-p">
-                   <a href="#Registration" style="color:rgb(255, 255, 255);" class="buy-tickets scrollto">Click to Download Registration Form</a>
+                   <a href="https://forms.gle/oJcnpSbRU33CLEvS6" style="color:rgb(255, 255, 255);" class="buy-tickets scrollto">Click to Download Registration Form</a>
                 </p>
             </article>
         </section>
@@ -2080,7 +2310,7 @@ Coimbatore - 641004 <br>Tamil nadu, India</address>
         <div class="space" style="height:50px; width: 100px;">
 
         </div>
-        <section id="reg" class="section-bg">
+        <!--section id="reg" class="section-bg">
             <div class="container" data-aos="fade-up">
                 <div class="section-header">
                     <h2>Register</h2>
@@ -2103,9 +2333,9 @@ Coimbatore - 641004 <br>Tamil nadu, India</address>
                         <div class="form-group mt-3">
                             <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
                         </div>
-                        <div class="my-3">
+                        <div class="my-3"-->
                             <!--div class="loading">Loading</div-->
-                            <div class="error-message"></div>
+                            <!--div class="error-message"></div>
                             <div class="sent-message">Thank you!</div>
                         </div>
                         <center><a href="#Registration" style="color:rgb(255, 255, 255);" class="buy-tickets scrollto">Register</a></center>
@@ -2115,7 +2345,7 @@ Coimbatore - 641004 <br>Tamil nadu, India</address>
                     </form>
                 </div>
             </div>
-        </section>
+        </section-->
 
 
                 <section id="venue">

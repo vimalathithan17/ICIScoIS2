@@ -1,0 +1,394 @@
+About PSGCT
+PSG College of Technology, an ISO 9001:2000
+certified institution is one of the foremost
+institutions founded by the PSG & Sons' Charities
+Trust (1926). The College was established in the year
+1951 and the Founders wisely decided to locate it in
+the same campus as the PSG Industrial Institute for
+effective industry-institute interaction. The founder
+Principal Dr. G R Damodaran was instrumental in the
+planned growth of the institution from the humble
+beginnings in 1951 to the present status of a world
+renowned technological institution. The College today has a student strength of about
+8518 with 15 engineering and technology departments. More than 600 research
+scholars are pursuing research programmes leading to Ph.D. / MS / M Tech degrees and
+the college is a recognized QIP centre for Postgraduate and Ph.D. programmes. Several
+advanced centres are set up with financial support from the Ministry of Human
+Resources Development, DST and other agencies. The programmes of the college are
+recognized all over India and abroad.
+
+About PSG CARE
+The PSG Center for Academic Research and Excellence was founded in October, 2015 by
+the PSG & Sons Charities Trust with a mission to promote teaching excellence in all the
+colleges under the Trust. Toward this end, CARE will encourage the use of learner-centric
+pedagogical practices that facilitate effective learning and will foster dialogue and
+reflection on effective teaching through workshops, seminars, one-to-one consultation
+and other activities. The center also focuses on creating and sustaining effective faculty
+student relationships and aims to pursue its mission by: Helping educators at PSG to
+practice a learner-centric course design, innovative pedagogy and effective assessments
+so as to shift the focus of the teaching learning process from delivery of knowledge to
+facilitation of knowledge acquisition Offering an effective one-to-one mentoring system
+to the faculty in various topics pertaining to learner-centric pedagogy and effective
+faculty student relationships Promoting the use of technology in the PSG classrooms and establishing an environment for effective use of technology in enhancing the
+teaching- learning process. Helping faculty members assess the effectiveness of their
+teaching through appropriate student and peer feedback mechanisms Encouraging
+research activities that enhance the quality of teaching at PSG and supporting
+dissemination of research findings about the teaching learning process.
+
+About the Department Of Information
+Technology
+The Department of Information Technology was established in the year 1999 with a
+vision to develop quality engineers to meet the current needs in the emerging world of
+IT. The department endeavours to educate students to acquire technical expertise and
+knowledge in the field of Information Technology. The department offers an under
+graduate programme B.Tech Information Technology and a post graduate programme M.E.
+Biometrics and Cyber Security. The Department is Anna University recognized research
+centre with more than 25 Scholars pursuing research. Funded research projects
+sponsored by AICTE, DST - CSRI and UGC are under progress in the area of security,
+analytics, etc. The department has signed MoU with Samsung PRISM and Boston Creative Company for innovative projects.
+
+
+Scope of the Conference
+
+Contemporary Intelligent System focuses on methods and algorithms for solving
+challenging problems and systems that behave intelligently in specialized domains such
+as medical diagnostics, decision making, security, gene expression analysis, speech and
+text recognition. The scope of this conference is to welcome original research papers
+contributing innovative ideas and out of box thinking in broad domains of Artificial
+Intelligence and allied areas in the perspective of Communication, IoT and Cyber
+Security. The conference aims to integrate the researchers from industry with
+academicians and scholars together to interchange their findings and results.
+
+
+ <section id="Keynote" class="section-with-bg">
+            <div class="container" data-aos="fade-up">
+                <div class="section-header">
+                    <h2>KEYNOTE SPEAKERS</h2>
+                    <!--p>Keynote speakers will be updated shortly!</p>-->
+                </div>
+            </div>
+
+                 <div class="container">
+
+                           <div class="row">
+                        <div class="col-sm-4">
+                        <div class="profile-card-4 text-center"><img src="key/1_1.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Mr. John Miller 
+                            <p>Principal Engineer, Ridecell, USA</p>
+                        </div>
+                        <div class="profile-description">
+                        <br>
+                        <b style="color: black;">Title: <span>Why Implementing a Strong Cypher Leads to Weak Security</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/1_2.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Mr. Tilak Kesavapillai
+                            <p>Director, Zebra Technologies New Yoke</p>
+                        </div>
+                        <div class="profile-description">
+                        <b style="color: black;">Title: <span>AI/ML infused product development life cycle for product release efficiency improvement</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                           <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/1_3.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. C. Krishna Mohan
+                            <p>Professor, Department of CSE, IIT Hyderabad</p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>Learning Social Interactions in Surveillance Videos</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                      </div>
+
+                      <div class="row">
+                        <div class="col-sm-4">
+                        <div class="profile-card-4 text-center"><img src="key/1.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. George Ghinea 
+                            <p>Professor, Brunel University, London</p>
+                        </div>
+                        <div class="profile-description">
+                        <br>
+                        <b style="color: black;">Title: <span>Multimedia and IoT - a natural combination</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/2.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. Barath Narayanan
+                            <p>Research Scientist, University of Dayton, USA</p>
+                        </div>
+                        <div class="profile-description">
+                              <br>
+                        <b style="color: black;">Title: <span>Ensemble Malware Classification System using Deep Neural Networks</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                           <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/3.png" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr.Anand Paul
+                            <p>Associate Professor, Kyungpook National University, South Korea </p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>Mathematical Modelling approach for Resilient and Robust Intelligence</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                      </div>
+
+
+                        <div class="row">
+                        <div class="col-sm-4">
+                        <div class="profile-card-4 text-center"><img src="key/4.jpeg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Mr.Viswanathan Mahalingam
+                            <p>Sr.Director of Engineering, Ridecell, USA</p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>Mathematical Modelling approach for Resilient and Robust Intelligence</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/5.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Prof. Anandh Ramesh
+                            <p>Senior Lecturer, Norwich University of the Arts, United Kingdom</p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>Artificial Intelligence, Art and the Artist</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                           <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/6.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Prof. Sheng-Lung Peng 
+                            <p>Professor, National Taipei University of Business, Taiwan</p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>Domination-like Problems with Propagation Property</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                      </div>
+
+
+
+                        <div class="row">
+                        <div class="col-sm-4">
+                        <div class="profile-card-4 text-center"><img src="key/7.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. Ashish Ghosh
+                            <p>Professor, Indian Statistical Institute, Kolkata</p>
+                        </div>
+                        <div class="profile-description">
+                              <br>
+                        <b style="color: black;">Title: <span>Machine Learning</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/8.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. P. Santhi Thilagam
+                            <p>Professor, NIT Surathkal, Mangalore</p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>IOT Security</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                           <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/9.jpeg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Prof. M. Vimal Jose  
+                            <p>Vice President, Mr Cooper, Chennai</p>
+                        </div>
+                        <div class="profile-description">
+                             <br>
+                        <b style="color: black;">Title: <span>Applied Intelligent Automation</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                      </div>
+
+
+
+                        <div class="row">
+                        <div class="col-sm-4">
+                        <div class="profile-card-4 text-center"><img src="key/10.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. Shyaam Prasadh
+                            <p>Data Analytics Manager, Ford motor , Chennai</p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>Explainable Artificial Intelligence for Finance</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                            <div class="col-sm-4">
+                        <div class="profile-card-4 text-center"><img src="key/15.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr.N.S.Sreekanth
+                            <p>Associate Professor, Department of IT, Kannur University</p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>Building IoT enabled Intelligent Systems - Challenges and Opportunities</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                           <div class="col-sm-4">
+                            <div class="profile-card-4 text-center" ><img src="key/12.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. V. Murali Bhaskaran  
+                            <p>Dean-Academics and Professor in CSE, Rajalakshmi Engineering College, Chennai</p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>Design Thinking for Innovation</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                      </div>
+
+
+
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/17.jpeg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Ms. Manasi Ekkundi
+                            <p>Staff Engineering Manager, Samsung India, Bengaluru</p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>5G Communications</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                           <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/18.jpeg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Dr. Radhika Engimuri 
+                            <p>Technical Support Engineer L2, Mirantis, USA</p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>The convergence of 5G, Edge and 
+Cloud </span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+
+                         <div class="col-sm-4">
+                        <div class="profile-card-4 text-center"><img src="key/19.jpeg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Mr. Abu Tahir
+                            <p>Co-Founder & CTO, Restogro and Bellcorp Studio, Bengaluru</p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>IOT based threat detection with 
+ 5G networks powered RPI</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+
+                      </div>
+
+
+
+
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/13.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Mr. D. Surendran
+                            <p>Chief Autonomous Officer, Maxbyte, Coimbatore</p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>Introduction to IOT And 
+Security</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                           <div class="col-sm-4">
+                            <div class="profile-card-4 text-center"><img src="key/14.jpg" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Mr. Swaminathan Thayaparan  
+                            <p>Innovation Strategy at Accenture, Chennai</p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>IOT And Security</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+
+                         <div class="col-sm-4">
+                        <div class="profile-card-4 text-center"><img src="key/16.png" class="img img-responsive" style="height: 300px; width: 300px;">
+                    <div class="profile-content">
+                        <div class="profile-name">Mr. S. Rajarajan
+                            <p>CEO, Boston Creative Company, Coimbatore</p>
+                        </div>
+                        <div class="profile-description">
+                            <br>
+                        <b style="color: black;">Title: <span>Recent Development in IOT</span></b>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+
+                      </div>
+
+                    </div>
+        </section>
+    -->
+
+     <section class="registration" id="registration">
+            <h2 style="color:#ffffff;">SCHEDULE</h2>
+            <section class="point-container">
+                <img src="1.png" alt="Nature" class="responsive" style="height: 40%; width: 100%;">
+                <img src="2.png" alt="Nature" class="responsive" style="height: 40%; width: 100%;">
+                <img src="3.png" alt="Nature" class="responsive" style="height: 40%; width: 100%;">
+            </section>
+        </section>
